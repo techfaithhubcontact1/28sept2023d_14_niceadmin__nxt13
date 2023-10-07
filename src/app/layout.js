@@ -8,7 +8,7 @@ import '../../public/assets/vendor/remixicon/remixicon.css'
 import '../../public/assets/vendor/simple-datatables/style.css'
 import '../../public/assets/css/style.css'
 
-import './globals.css'
+import './globals.css' 
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })

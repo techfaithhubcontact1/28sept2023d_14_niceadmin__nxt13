@@ -4,6 +4,6 @@
 //2. defination Area
 export default function Home() {
   return (
-    <></>
+    <> </>
     )
 }
